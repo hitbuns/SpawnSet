@@ -1,0 +1,10 @@
+name: SpawnSet
+main: com.SpawnSet.Main
+version: 1.0
+api-version: 1.18
+
+commands:
+  spawn:
+    usage: /spawn
+  setspawn:
+    usage: /setspawn
